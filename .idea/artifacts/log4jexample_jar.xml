@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="log4jexample:jar">
+  <artifact type="jar" build-on-make="true" name="log4jexample:jar">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="log4jexample.jar">
       <element id="module-output" name="log4jexample" />
