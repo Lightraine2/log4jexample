@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="log4jexample:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="log4jexample.jar">
+      <element id="module-output" name="log4jexample" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
